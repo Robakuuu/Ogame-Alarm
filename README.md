@@ -1,6 +1,6 @@
 # Ogame Alarm
 
-Ogame Alarm is a script that allows you to get an information from your Ogame account about your/enemy fleet movement.
+Ogame Alarm is a script that allows you to get an information from your Ogame account about your/enemy fleet movement and send it to trello account where you can see it on your phone.
 
 # Done:
 - Logging to Ogame account (Skipping advertisment)
