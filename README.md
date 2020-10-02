@@ -15,7 +15,7 @@ Ogame Alarm is a script that allows you to get an information from your Ogame ac
   * [Selenium] - Selenium Driver that allows you to make web test.
   * [Google Chrome] - Web browser.
   * [Python 3.6] - Script Language.
-  * [PyCharm] - Script Language.
+  * [PyCharm] - Python IDE.
   * [Trello] - App to download on your phone, to get an information about fleet movement.
 
 
